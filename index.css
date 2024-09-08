@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(249, 249, 247);
+} 
+
+
+
+h1{
+    color: rgb(6, 103, 248); 
+    word-spacing: 12px;
+    text-shadow: 1px 1px 10px #03f90b;
+    font-family: initial;
+ }
+
+ p{
+    font-weight: bold;
+    font-style: italic;
+    text-align: justify;
+}
+
+h2{
+    color: rgb(11, 101, 246); 
+    word-spacing: 12px;
+    text-shadow: 1px 1px 10px #f77b07;
+ }
+
+ ul{
+    font-weight: 35;
+    font-style: italic;
+    text-align: justify;
+}
+
